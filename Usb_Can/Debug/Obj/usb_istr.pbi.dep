@@ -1,0 +1,23 @@
+usb_istr.pbi: E:\AnyID\Git\Usb_Can\USB\src\usb_istr.c \
+  E:\AnyID\Git\Usb_Can\Usb_Can\..\USB\inc\usb_lib.h \
+  E:\AnyID\Git\Usb_Can\Usb_Can\..\USB\inc/usb_type.h \
+  E:\AnyID\Git\Usb_Can\Usb_Can\..\USB\inc/usb_conf.h \
+  E:\AnyID\AnyID_Embedded\V1.1.0\AnyID_lib_V1.1.0\inc\AnyID_Type.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\string.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Normal.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ysizet.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product_string.h \
+  E:\AnyID\Git\Usb_Can\Usb_Can\..\USB\inc/usb_regs.h \
+  E:\AnyID\Git\Usb_Can\Usb_Can\..\USB\inc/usb_def.h \
+  E:\AnyID\Git\Usb_Can\Usb_Can\..\USB\inc/usb_core.h \
+  E:\AnyID\Git\Usb_Can\Usb_Can\..\USB\inc/usb_init.h \
+  E:\AnyID\Git\Usb_Can\Usb_Can\..\USB\inc/usb_mem.h \
+  E:\AnyID\Git\Usb_Can\Usb_Can\..\USB\inc/usb_int.h \
+  E:\AnyID\Git\Usb_Can\Usb_Can\..\USB\inc/usb_istr.h \
+  E:\AnyID\Git\Usb_Can\Usb_Can\..\USB\inc\usb_prop.h \
+  E:\AnyID\Git\Usb_Can\Usb_Can\..\USB\inc\usb_pwr.h \
+  E:\AnyID\Git\Usb_Can\Usb_Can\..\USB\inc\usb_istr.h

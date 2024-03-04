@@ -1,0 +1,3 @@
+SysCfg.pbi: E:\AnyID\Git\Usb_Can\Usb_Can\..\User\inc\Config.h \
+  E:\AnyID\Git\Usb_Can\Usb_Can\..\User\inc\SysCfg.h \
+  E:\AnyID\Git\Usb_Can\User\src\SysCfg.c
